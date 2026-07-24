@@ -12,7 +12,6 @@
 [![license](https://img.shields.io/badge/license-Apache_2.0-black)](LICENSE)
 
 </div>
-
 ---
 
 ## What is Zibbo?

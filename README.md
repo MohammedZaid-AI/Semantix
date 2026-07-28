@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="docs/assets/avatar.png" alt="Zibbo" width="140" height="140" />
 
 #Zibbo
